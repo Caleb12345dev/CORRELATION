@@ -1,0 +1,9 @@
+number1 = 5
+number2 = 9
+number3 = 7
+while (count>=0):
+print(number3)
+number3 = count - 1
+
+if (number2>5):
+print("9 is largest")
